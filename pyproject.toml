@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=40.6.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages.find = { where = ["src"], exclude = [] }
+
+[project]
+name = "emphassess"
+version = "0.1.0"
+authors = [
+    { name = "Maureen de Seyssel", email = "maureen.deseyssel@gmail.com" },
+]
+dependencies = [
+    "numpy",
+    "torch",
+    "simalign",
+    "transformers",
+    "tqdm",
+    "pandas",
+    "librosa",
+    "matplotlib",
+    "whisperx @ git+https://github.com/m-bain/whisperx.git",
+]
+requires-python = ">=3.10,<4"
+
+[project.scripts]
+emphassess = "evaluation_pipeline.scripts.evaluate:main"
+classify_emphasis = "emphasis_classifier.scripts.infer_audio:main"

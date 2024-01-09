@@ -1,0 +1,10 @@
+{"id":"ex02_emph_eval_00704","src_sentence":["today's","high","is","seventy","one",",","with","a","low","of","forty","two","."],"gold_emphasis":[1],"voice":"expresso_ex02","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex02_emph_eval_00704.wav"}
+{"id":"ex04_emph_eval_00048","src_sentence":["Because","we're","preparing","you","a","feast","."],"gold_emphasis":[1],"voice":"expresso_ex04","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex04_emph_eval_00048.wav"}
+{"id":"ex03_emph_eval_00398","src_sentence":["Lawyers","are","trained","to","explain","."],"gold_emphasis":[2],"voice":"expresso_ex03","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex03_emph_eval_00398.wav"}
+{"id":"ex03_emph_eval_00012","src_sentence":["alright",",","what's","your","plan","?"],"gold_emphasis":[0],"voice":"expresso_ex03","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex03_emph_eval_00012.wav"}
+{"id":"ex01_emph_eval_00772","src_sentence":["What","does","that","mean","?"],"gold_emphasis":[2],"voice":"expresso_ex01","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex01_emph_eval_00772.wav"}
+{"id":"ex01_emph_eval_00757","src_sentence":["We","want","to","play","at","the","worlds","."],"gold_emphasis":[3],"voice":"expresso_ex01","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex01_emph_eval_00757.wav"}
+{"id":"ex01_emph_eval_00372","src_sentence":["I","will","never","manage","another","Scottish","club","."],"gold_emphasis":[3],"voice":"expresso_ex01","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex01_emph_eval_00372.wav"}
+{"id":"ex02_emph_eval_00425","src_sentence":["My","grandson","was","elected","lieutenant","governor","."],"gold_emphasis":[1],"voice":"expresso_ex02","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex02_emph_eval_00425.wav"}
+{"id":"ex03_emph_eval_00794","src_sentence":["What","were","you","looking","for","?"],"gold_emphasis":[2],"voice":"expresso_ex03","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex03_emph_eval_00794.wav"}
+{"id":"ex03_emph_eval_00219","src_sentence":["He","pleaded","for","caution","."],"gold_emphasis":[3],"voice":"expresso_ex03","tgt_lang":"en","tgt_audiopath":"test\/test_data\/ex03_emph_eval_00219.wav"}

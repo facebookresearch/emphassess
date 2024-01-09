@@ -1,0 +1,6 @@
+test/output
+*.egg
+*.egg-info/
+*.pyc
+__pycache__/
+TO_UPLOAD/
